@@ -140,3 +140,16 @@ main.error {
         transform: translate(0, 0);
     }
 }
+
+
+
+
+.weather-container {
+    background-image: url('sunny-bg.jpg');
+    /* Dynamic background based on weather */
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    border-radius: 10px;
+}
